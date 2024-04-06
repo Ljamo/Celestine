@@ -11,3 +11,4 @@ bin-int/
 
 # Exclude
 !vendor/premake5
+!vendor/GLFW
