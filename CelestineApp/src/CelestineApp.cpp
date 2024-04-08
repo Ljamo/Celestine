@@ -19,7 +19,7 @@ public:
 Celestine::Application* Celestine::CreateApplication(int argc, char** argv)
 {
 	Celestine::ApplicationSpecification spec;
-	spec.Name = "Walnut Example";
+	spec.Name = "Celestine Example";
 
 	Celestine::Application* app = new Celestine::Application(spec);
 	app->PushLayer<ExampleLayer>();
