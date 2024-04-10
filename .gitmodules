@@ -4,7 +4,7 @@
 	branch = docking
 [submodule "vendor/imgui"]
 	path = vendor/imgui
-	url = https://github.com/TheCherno/imgui
+	url = https://github.com/Ljamo/imgui
 	branch = docking
 [submodule "vendor/glm"]
 	path = vendor/glm
